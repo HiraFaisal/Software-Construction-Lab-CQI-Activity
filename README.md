@@ -4,7 +4,7 @@
 The Smart Home Automation System
 
 ## 👥 Group Members:
-| Name                 | Enrollment No.       |
+| Name                 | Enrollment No        |
 |----------------------|----------------------|
 |    Hira Faisal       |   02-131222-106      |
 |    Hamza Faisal      |   02-131222-066      |
