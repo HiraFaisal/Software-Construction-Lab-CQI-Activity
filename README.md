@@ -1,7 +1,7 @@
 # CQI Activity - BSE 7 - B - Software Construction
 
 ## 📚 Project Title:
-Software Construction CQI Activity
+The Smart Home Automation System
 
 ## 👥 Group Members:
 | Name                 | Enrollment No.       |
