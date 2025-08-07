@@ -9,6 +9,7 @@ The Smart Home Automation System
 |    Hira Faisal       |   02-131222-106      |
 |    Hamza Faisal      |   02-131222-066      |
 |    Jawad Ahmed       |   02-131222-094      |
+|    Hassaan Gul Rao   |   02-131222-114      | 
 
 ## 🏫 Class / Section:
 BSE – 7 B
